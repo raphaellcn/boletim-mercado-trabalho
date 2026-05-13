@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "metodologia.html",
+    "href": "metodologia.html",
+    "title": "Metodologia",
+    "section": "",
+    "text": "Este boletim utiliza os microdados mensais do Novo CAGED (Cadastro Geral de Empregados e Desempregados), divulgados pelo Ministério do Trabalho e Emprego (MTE) com defasagem de aproximadamente 45 dias. Os dados estão disponíveis para download público no portal do MTE."
+  },
+  {
+    "objectID": "metodologia.html#fonte-de-dados",
+    "href": "metodologia.html#fonte-de-dados",
+    "title": "Metodologia",
+    "section": "",
+    "text": "Este boletim utiliza os microdados mensais do Novo CAGED (Cadastro Geral de Empregados e Desempregados), divulgados pelo Ministério do Trabalho e Emprego (MTE) com defasagem de aproximadamente 45 dias. Os dados estão disponíveis para download público no portal do MTE."
+  },
+  {
+    "objectID": "metodologia.html#cobertura",
+    "href": "metodologia.html#cobertura",
+    "title": "Metodologia",
+    "section": "Cobertura",
+    "text": "Cobertura\nO Novo CAGED captura exclusivamente vínculos regidos pela Consolidação das Leis do Trabalho (CLT). Não estão incluídos:\n\nServidores públicos estatutários\nTrabalhadores por conta própria (autônomos)\nEmpregados domésticos sem registro formal\nTrabalhadores informais\n\nPara municípios do interior do Nordeste, a taxa de informalidade tende a ser elevada. Os resultados deste boletim representam o emprego formal CLT — relevante, mas parcial, do mercado de trabalho local."
+  },
+  {
+    "objectID": "metodologia.html#saldo-trimestral",
+    "href": "metodologia.html#saldo-trimestral",
+    "title": "Metodologia",
+    "section": "Saldo trimestral",
+    "text": "Saldo trimestral\nO saldo é a diferença entre admissões e desligamentos registrados no trimestre. Um saldo positivo indica geração líquida de empregos formais; negativo, destruição líquida."
+  },
+  {
+    "objectID": "metodologia.html#variação-yoy-year-over-year",
+    "href": "metodologia.html#variação-yoy-year-over-year",
+    "title": "Metodologia",
+    "section": "Variação YoY (Year-over-Year)",
+    "text": "Variação YoY (Year-over-Year)\nA variação YoY compara o trimestre de referência com o mesmo trimestre do ano anterior (ex: 1T2026 vs. 1T2025). Essa comparação elimina efeitos sazonais — como a queda típica de contratações no 1º trimestre — e é o indicador central de tendência deste boletim."
+  },
+  {
+    "objectID": "metodologia.html#estimativa-do-estoque",
+    "href": "metodologia.html#estimativa-do-estoque",
+    "title": "Metodologia",
+    "section": "Estimativa do estoque",
+    "text": "Estimativa do estoque\nO Novo CAGED registra apenas fluxos mensais, não o estoque absoluto de vínculos. O estoque é estimado pela acumulação dos saldos mensais a partir de um valor de referência (baseline) de 3.856 vínculos para Pau dos Ferros/RN em janeiro de 2023, conforme informado pela equipe técnica municipal.\nPara os demais municípios da região, o estoque é uma estimativa operacional relativa, sem ancoragem em valor absoluto validado externamente."
+  },
+  {
+    "objectID": "metodologia.html#taxa-de-rotatividade",
+    "href": "metodologia.html#taxa-de-rotatividade",
+    "title": "Metodologia",
+    "section": "Taxa de rotatividade",
+    "text": "Taxa de rotatividade\nA taxa de rotatividade é calculada como:\n\\[\\text{Rotatividade} = \\frac{\\min(\\text{admissões}, \\text{desligamentos})}{\\text{estoque}} \\times 100\\]\nEssa fórmula captura a intensidade de substituição de mão de obra. Uma taxa elevada combinada com saldo positivo pode indicar instabilidade dos vínculos — muita contratação e demissão simultâneas."
+  },
+  {
+    "objectID": "metodologia.html#quociente-locacional-ql",
+    "href": "metodologia.html#quociente-locacional-ql",
+    "title": "Metodologia",
+    "section": "Quociente Locacional (QL)",
+    "text": "Quociente Locacional (QL)\nO Quociente Locacional compara a participação de cada setor nas movimentações do município com a participação do mesmo setor na região:\n\\[QL = \\frac{\\text{mov. setor / total município}}{\\text{mov. setor / total região}}\\]\nQL &gt; 1: o setor é proporcionalmente mais representado em Pau dos Ferros do que na média regional (especialização relativa).\nQL &lt; 1: o setor tem menor peso relativo no município em comparação com a região."
+  },
+  {
+    "objectID": "metodologia.html#variação-acumulada-em-12-meses",
+    "href": "metodologia.html#variação-acumulada-em-12-meses",
+    "title": "Metodologia",
+    "section": "Variação acumulada em 12 meses",
+    "text": "Variação acumulada em 12 meses\nA variação acumulada em 12 meses é calculada como a variação percentual do estoque em relação ao mesmo mês de 12 meses atrás. Esse indicador suaviza oscilações sazonais e revela a tendência estrutural do mercado de trabalho."
+  },
+  {
+    "objectID": "metodologia.html#reprodutibilidade",
+    "href": "metodologia.html#reprodutibilidade",
+    "title": "Metodologia",
+    "section": "Reprodutibilidade",
+    "text": "Reprodutibilidade\nTodo o código de análise está disponível em formato Quarto (.qmd) e é reproduzível a partir dos microdados públicos do Novo CAGED. O código-fonte está disponível para consulta mediante solicitação à Secretaria de Desenvolvimento Econômico.\n\nResponsável técnico: Secretaria Municipal de Desenvolvimento Econômico\nContato: secretaria@paudosferros.rn.gov.br\nDados: Novo CAGED — Ministério do Trabalho e Emprego (MTE)"
+  },
+  {
+    "objectID": "edicoes.html",
+    "href": "edicoes.html",
+    "title": "Edições Anteriores",
+    "section": "",
+    "text": "Esta página reúne todos os boletins já publicados. Cada edição cobre um trimestre completo de dados do Novo CAGED para Pau dos Ferros/RN e o Alto Oeste Potiguar.\n\n\n2026\n\n\n\n1º Trimestre 2026 · 2026T1\n\n\nJan a Mar/2026 · Saldo: 79 vínculos\n\n\nAcessar →\n\n\n\n\n2025\n\n\n\n4º Trimestre 2025 · 2025T4\n\n\nOut a Dez/2025\n\n\nEm breve\n\n\n\n\n3º Trimestre 2025 · 2025T3\n\n\nJul a Set/2025\n\n\nEm breve\n\n\n\n\n2º Trimestre 2025 · 2025T2\n\n\nAbr a Jun/2025\n\n\nEm breve\n\n\n\n\n1º Trimestre 2025 · 2025T1\n\n\nJan a Mar/2025\n\n\nEm breve\n\n\n\n\n\n\n\n\nNote\n\n\n\nComo adicionar uma nova edição: após renderizar o boletim de um novo trimestre, salve o arquivo boletim.html gerado com o nome boletim_2026T2.html (por exemplo) na pasta docs/, e adicione uma linha nesta página apontando para ele."
+  },
+  {
+    "objectID": "boletim.html",
+    "href": "boletim.html",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "",
+    "text": "Esta seção apresenta os indicadores-chave do mercado de trabalho formal de Pau dos Ferros/RN no 1º trimestre de 2026, oferecendo uma visão panorâmica dos resultados antes da análise detalhada por setor, perfil e território. Os dados são provenientes do Novo CAGED e compilados pelo Ministério do Trabalho e Emprego (MTE).\nBoletim nº 1/2026\nPeríodo de referência: 2026T1 (01/01/2026 a 31/03/2026)\nMunicípio focal: Pau dos Ferros/RN\nRecorte regional: Alto Oeste Potiguar\n\n\n\n\nTabela 1: Indicadores-chave — Pau dos Ferros/RN — 2026T1\n\n\n\nIndicadorValorSaldo trimestral79Admissões496Desligamentos417Estoque4.716Acumulado no ano79Saldo em 12 meses123Taxa de rotatividade8,8%Fonte: Novo CAGED. Elaboração própria.\n\n\n\n\n\nNo 1º trimestre de 2026, o mercado de trabalho formal de Pau dos Ferros/RN gerou um saldo positivo de 79 vínculos adicionais de emprego, resultado de 496 admissões e 417 desligamentos (ver Tabela 1). Esse resultado representa uma inversão de tendência relevante: após registrar saldo negativo de -35 vínculos no trimestre anterior, o mercado formal local retomou a trajetória de crescimento. O estoque estimado de empregos formais encerrou o período em 4.716 vínculos — uma variação de 1,7% em relação ao trimestre anterior e de 2,5% em relação ao 1º trimestre de 2025.\nDo ponto de vista setorial — ver Tabela 6 e Figura 4 na Seção 3.3 — Comércio foi o principal vetor de crescimento do emprego formal, respondendo por 50 dos 79 vínculos adicionais gerados no trimestre — o equivalente a 63,3% do saldo total. Todos os setores registraram saldo positivo no trimestre, com Construção apresentando a menor contribuição (1 vínculos, ou 1,3% do total).\nNa comparação com o 1º trimestre de 2025, o resultado indica melhora em relação ao mesmo trimestre do ano anterior. A diferença absoluta foi de 19 vínculos, reflexo de uma melhora no ritmo de geração de empregos formais. Em termos de variação interanual do estoque, o município apresenta desempenho inferior ao da região (5,2% no mesmo período). Frente ao trimestre imediatamente anterior (2025T4), o mercado formal local registra aceleração da geração de empregos."
+  },
+  {
+    "objectID": "boletim.html#resultado-trimestral",
+    "href": "boletim.html#resultado-trimestral",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "2.1 Resultado Trimestral",
+    "text": "2.1 Resultado Trimestral\nA Tabela 2 sintetiza os principais indicadores do fluxo de admissões e desligamentos registrados no Alto Oeste Potiguar durante o 1º trimestre de 2026. A variação do estoque é o indicador central para avaliar se o mercado regional gerou ou destruiu empregos formais no período.\n\n\n\n\nTabela 2: Mercado de trabalho formal — Alto Oeste Potiguar — 2026T1\n\n\n\nIndicadorValorSaldo234Admissões992Desligamentos758Estoque9.771Variação trimestral do estoque2,5%Variação interanual do estoque5,2%Acumulado no ano234Saldo em 12 meses488Fonte: Novo CAGED. Elaboração própria.\n\n\n\n\n\nNo 1º trimestre de 2026, o conjunto dos municípios do Alto Oeste Potiguar gerou saldo líquido de 234 empregos formais, resultado de 992 admissões e 758 desligamentos. O estoque regional de vínculos ativos encerrou o período em 9.771, com variação trimestral de 2,5% e variação interanual de 5,2%. O comportamento regional indica crescimento acelerado, com saldo 280 vínculos acima do registrado no período anterior."
+  },
+  {
+    "objectID": "boletim.html#estrutura-setorial-regional",
+    "href": "boletim.html#estrutura-setorial-regional",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "2.2 Estrutura Setorial Regional",
+    "text": "2.2 Estrutura Setorial Regional\nA Tabela 3 decompõe o saldo regional por setor — Agricultura, Indústria, Construção, Comércio e Serviços — identificando quais segmentos foram os principais motores e freios do emprego formal na região no trimestre.\n\n\n\n\nTabela 3: Participação setorial nas movimentações e no saldo — Alto Oeste Potiguar — 2026T1\n\n\n\nSetorAdmissõesDesligamentosSaldoΔ T12025-T12026 (%)Part. saldo (%)Comércio479354125380,8%53,4%Construção994851-525,0%21,8%Serviços31528134-67,6%14,5%Indústria927418-10,0%7,7%Agricultura716500,0%2,6%TOTAL992758234—100,0%Nota: Δ T12025-T12026 (%): variação % do saldo entre o mesmo trimestre dos dois anos. Part. saldo: participação no saldo absoluto regional. Fonte: Novo CAGED.\n\n\n\n\n\nA análise setorial regional revela que Comércio foi o principal vetor de crescimento do emprego formal, com saldo de 125 vínculos e participação de 47,6% no total de movimentações da região. Esse protagonismo do Comércio é consistente com o perfil econômico do Alto Oeste Potiguar, onde atividades comerciais e de serviços concentram a maior parte do emprego formal registrado."
+  },
+  {
+    "objectID": "boletim.html#ranking-municipal",
+    "href": "boletim.html#ranking-municipal",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "2.3 Ranking Municipal",
+    "text": "2.3 Ranking Municipal\nA Tabela 4 apresenta os municípios do Alto Oeste Potiguar ordenados pelo saldo líquido de empregos formais no trimestre. A coluna % saldo regional indica a contribuição de cada município para o resultado agregado da região — valores positivos elevados indicam os principais polos de geração de empregos; valores negativos indicam municípios com mais desligamentos que admissões.\n\n\n\n\nTabela 4: Ranking municipal por saldo — Alto Oeste Potiguar — 2026T1\n\n\n\nPosiçãoMunicípioAdmissõesDesligamentosSaldo% saldo regional1São Miguel174928235,0%2Pau dos Ferros/RN4964177933,8%3Marcelino Vieira212198,1%4Martins6546198,1%5Riacho da Cruz187114,7%6Tenente Ananias2414104,3%7Antônio Martins16793,8%8Major Sales8173,0%9Doutor Severiano11562,6%10João Dias14862,6%Nota: % saldo regional: contribuição de cada município para o saldo total da região no trimestre. Fonte: Novo CAGED.\n\n\n\n\n\nNo ranking regional do 1º trimestre de 2026 (ver Tabela 4), Pau dos Ferros/RN ocupou a 2ª posição entre os 27 municípios do Alto Oeste Potiguar com registros no CAGED, respondendo por 33,8% do saldo líquido regional. Os cinco municípios com maior saldo líquido no período foram: São Miguel, Pau dos Ferros/RN, Marcelino Vieira, Martins, Riacho da Cruz. A posição de Pau dos Ferros/RN no ranking confirma seu papel como principal polo de geração de emprego formal na mesorregião."
+  },
+  {
+    "objectID": "boletim.html#estoque-de-emprego",
+    "href": "boletim.html#estoque-de-emprego",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "3.1 Estoque de Emprego",
+    "text": "3.1 Estoque de Emprego\nO estoque representa o total estimado de vínculos formais ativos ao final do trimestre. Como o Novo CAGED registra apenas fluxos (admissões e desligamentos), o estoque é reconstruído a partir de um valor de referência (baseline) acumulando os saldos mensais. A Figura 1 apresenta a evolução do estoque tanto para Pau dos Ferros/RN quanto para o conjunto do Alto Oeste Potiguar, permitindo dimensionar o peso do município no contexto regional e comparar suas trajetórias de crescimento. Os valores históricos são derivados da série mensal do MTE; os trimestres mais recentes são ancorados no último ponto histórico (Dez/2025) e atualizados com os saldos do CAGED.\n\n\n\n\n\n\n\n\nFigura 1: Evolução do estoque de empregos formais — Pau dos Ferros/RN e Alto Oeste Potiguar — Jan/2020 a 2026T1. Série mensal MTE até Dez/2025; trimestral CAGED a partir de 2026 (ancorado no último valor histórico). Fonte: MTE/Novo CAGED. Elaboração própria.\n\n\n\n\n\nA Figura 1 evidencia a trajetória de crescimento consistente do emprego formal em Pau dos Ferros/RN e o coloca em perspectiva com o conjunto do Alto Oeste Potiguar. Ao final do 1º trimestre de 2026, o município registrou 4.716 vínculos formais ativos — valor que representa 48,3% do estoque total estimado para o Alto Oeste Potiguar (9.771 vínculos). Essa concentração confirma o papel de Pau dos Ferros/RN como polo dominante do emprego formal na microrregião: sozinho, o município abriga praticamente metade de todos os vínculos formais registrados nos 30 municípios do Alto Oeste Potiguar. Em relação ao mesmo período de 2025, o estoque do município cresceu 2,5%, equivalente a aproximadamente 117 postos de trabalho adicionais — expansão que reforça a dinâmica econômica diferenciada do município frente ao interior potiguar. A análise da média móvel de quatro trimestres aponta tendência de alta no emprego formal do município, sinalizando um movimento estrutural e não apenas uma variação pontual de curto prazo. Esse indicador é relevante porque suaviza oscilações sazonais — comuns no primeiro trimestre do ano, período com menor atividade em setores como comércio e construção — e permite uma leitura mais robusta da direção do mercado de trabalho local."
+  },
+  {
+    "objectID": "boletim.html#dinâmica-do-emprego",
+    "href": "boletim.html#dinâmica-do-emprego",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "3.2 Dinâmica do Emprego",
+    "text": "3.2 Dinâmica do Emprego\nEsta subseção analisa o fluxo trimestral de admissões e desligamentos, o saldo líquido resultante e a taxa de rotatividade. Enquanto o estoque captura o nível absoluto de empregos, a dinâmica revela o ritmo e a qualidade das movimentações — em especial, se os empregos gerados tendem a ser estáveis ou de curta duração.\n\n\n\n\n\n\n\n\nFigura 2: Saldo trimestral de empregos formais — Pau dos Ferros/RN. Linha tracejada: média móvel de 4 trimestres. Fonte: Novo CAGED. Elaboração própria.\n\n\n\n\n\n\n\n\n\nTabela 5: Dinâmica do emprego formal — Pau dos Ferros/RN — 2026T1\n\n\n\nIndicadorValorNotaSaldo trimestral79Admissões: 496 | Desligamentos: 417Saldo acumulado no ano79Soma dos saldos de todos os trimestres de 2026Variação interanual do saldo (1T2026 vs. 1T2025)1,7%Variação % do saldo do 1T2026 vs. 1T2025Variação do estoque em 12 meses (4 trimestres)2,5%Soma dos saldos dos últimos 4 trimestres disponíveisTaxa de rotatividade8,8%Menor valor entre admissões e desligamentos / estoqueFonte: Novo CAGED. Elaboração própria.\n\n\n\n\n\nA Figura 2 apresenta o histórico de saldos trimestrais dos últimos três anos, com a linha tracejada indicando a média móvel de 4 trimestres — instrumento que suaviza a sazonalidade e evidencia a tendência estrutural. No 1º trimestre de 2026, Pau dos Ferros/RN registrou saldo de 79 vínculos, resultado de 496 admissões e 417 desligamentos. Esse desempenho indica aceleração da geração de empregos em relação ao trimestre anterior — que havia registrado saldo de -35 vínculos. Esse resultado representa uma inversão de tendência relevante: após registrar saldo negativo de -35 vínculos no trimestre anterior, o mercado formal local retomou a trajetória de crescimento. Comparando o 1º trimestre de 2026 com o mesmo trimestre de 2025 — quando o saldo foi de 60 vínculos —, o resultado atual é 31,7% superior, indicando aceleração na geração de empregos formais na comparação interanual. Como o período de referência é o 1º trimestre, o saldo acumulado no ano de 2026 coincide com o resultado trimestral (79 vínculos). A Tabela 5 consolida os principais indicadores dinâmicos do período: além do saldo trimestral e acumulado, destaca-se o saldo em 12 meses (123 vínculos), que captura a trajetória do emprego formal para além das variações sazonais, e a variação interanual do estoque (2,5%), que mede o crescimento estrutural do mercado de trabalho local. A taxa de rotatividade do trimestre foi de 8,8% — analisada em detalhe na Figura 3.\n\n\n\n\n\n\n\n\nFigura 3: Taxa de rotatividade do emprego formal — Pau dos Ferros/RN vs. Alto Oeste Potiguar. Rotatividade = mín(admissões, desligamentos) / estoque. Fonte: Novo CAGED. Elaboração própria.\n\n\n\n\n\nA taxa de rotatividade de Pau dos Ferros/RN no 1º trimestre de 2026 — detalhada na Figura 3 — foi de 8,8%, considerada baixa. Para efeito de comparação, a região Alto Oeste Potiguar registrou rotatividade de 7,8% (baixa). O município apresentou rotatividade superior à média regional, o que pode indicar maior instabilidade nos vínculos formais locais — vagas sendo geradas e encerradas em ciclos mais curtos. Em perspectiva histórica, observa-se tendência de aumento da rotatividade nos últimos trimestres. Mercados com alta rotatividade e saldo positivo merecem atenção: o saldo líquido pode mascarar elevada reposição de mão de obra, com impacto sobre a qualidade e a permanência dos empregos gerados."
+  },
+  {
+    "objectID": "boletim.html#estrutura-setorial",
+    "href": "boletim.html#estrutura-setorial",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "3.3 Estrutura Setorial",
+    "text": "3.3 Estrutura Setorial\nA Tabela 6 apresenta o saldo de empregos formais por setor, a variação percentual em relação ao mesmo trimestre do ano anterior e a participação das mulheres no saldo de cada setor — permitindo identificar não apenas quais setores cresceram, mas também para quem as vagas foram geradas. A Figura 4 complementa essa leitura mostrando a evolução trimestral do saldo por setor nos últimos trimestres, evidenciando se a estrutura setorial é estrutural ou pontual.\n\n\n\n\nTabela 6: Saldo do emprego formal por setor — Pau dos Ferros/RN — 2026T1\n\n\n\nSetorSaldoΔ T12025-T12026 (%)Part. Mulher no Saldo (%)Part. saldo (%)Comércio50-516,7%60,0%63,3%Serviços20-66,1%65,0%25,3%Indústria8-20,0%37,5%10,1%Construção1-66,7%-100,0%1,3%TOTAL79—57,0%100,0%Nota: Δ T12025-T12026 (%): variação % do saldo em relação ao mesmo trimestre do ano anterior. Part. Mulher no Saldo (%): participação feminina no saldo líquido do setor (apenas para setores com saldo positivo). Part. saldo: contribuição para o saldo total. Fonte: Novo CAGED.\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 4: Saldo trimestral de empregos formais por setor — Pau dos Ferros/RN — do 1º trimestre de 2025 ao 1º trimestre de 2026. Fonte: Novo CAGED. Elaboração própria.\n\n\n\n\n\nA Tabela 6 apresenta o saldo de empregos formais por setor em Pau dos Ferros/RN no 1º trimestre de 2026, com a variação percentual em relação ao mesmo período de 2025 e a participação feminina no saldo de cada setor. 4 de 4 setores registraram saldo positivo. Comércio foi o segmento de maior dinamismo, respondendo pela maior geração líquida de vínculos (50 postos, equivalente a 63,3% do saldo total). Construção registrou a menor contribuição positiva (1 vínculos), sem contudo apresentar destruição líquida de postos. A Figura 4 apresenta a evolução trimestral do saldo por setor nos últimos trimestres, permitindo verificar se a contribuição setorial atual é uma tendência consistente ou um movimento pontual. Sob a perspectiva de gênero, Serviços foi o setor com maior participação feminina no saldo positivo (65,0%) — sinal de que as vagas geradas nesse segmento beneficiam proporcionalmente mais as mulheres.\n\n3.3.1 Quociente Locacional\nO Quociente Locacional (QL) é uma medida de especialização econômica relativa. Ele compara o peso de cada setor nas movimentações formais do município com o peso do mesmo setor na região. Setores com QL superior a 1,0 têm presença proporcionalmente maior em Pau dos Ferros/RN do que na média regional, sugerindo vocação econômica local nesses segmentos.\n\n\n\n\nTabela 7: Quociente Locacional por setor — Pau dos Ferros/RN vs. Alto Oeste Potiguar — 2026T1\n\n\n\nSetorMov. municípioMov. regiãoPart. mun. (%)Part. reg. (%)QLComércio51883356,7%47,8%1,19Serviços32659635,7%34,2%1,04Construção371474,1%8,4%0,48Indústria321663,5%9,5%0,37Nota: QL &gt; 1: município mais especializado que a região. Fonte: Novo CAGED.\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 5: Quociente Locacional por setor — Pau dos Ferros/RN vs. Alto Oeste Potiguar — 2026T1. Fonte: Novo CAGED. Elaboração própria.\n\n\n\n\n\nO Quociente Locacional (QL) por setor revela o perfil de especialização produtiva de Pau dos Ferros/RN em relação ao conjunto do Alto Oeste Potiguar. Os setores com maior especialização relativa — QL superior a 1,0 — são: Comércio (QL = 1.19), Serviços (QL = 1.04), indicando que esses segmentos têm peso proporcionalmente maior em Pau dos Ferros do que na média regional. Em contrapartida, Construção, Indústria apresentam QL inferior a 1,0, sinalizando menor presença relativa desses setores no município. Setores com QL elevado tendem a representar vocações econômicas locais consolidadas e podem ser priorizados em estratégias de promoção do desenvolvimento produtivo e de atração de investimentos complementares à base econômica existente."
+  },
+  {
+    "objectID": "boletim.html#perfil-do-trabalhador",
+    "href": "boletim.html#perfil-do-trabalhador",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "3.4 Perfil do Trabalhador",
+    "text": "3.4 Perfil do Trabalhador\nA Tabela 8 apresenta, em uma única tabela, as dimensões de escolaridade, faixa etária, faixa salarial e sexo dos trabalhadores envolvidos nas movimentações formais do trimestre. Para cada categoria, mostram-se o saldo líquido, a variação em relação ao mesmo trimestre de 2025 e a participação no saldo total — permitindo identificar tanto o desempenho atual quanto a evolução interanual de cada grupo.\n\n\n\n\nTabela 8: Distribuição do saldo do emprego formal por atributos dos trabalhadores — Pau dos Ferros/RN — 2026T1\n\n\n\nCategoriaSaldoΔ T12025-T12026 (%)Part. saldo (%)EscolaridadeFundamental incompleto-7-216,7%-8,9%Fundamental completo-9-550,0%-11,4%Ensino médio78+110,8%98,7%Ensino superior14+27,3%17,7%Pós-graduação3-25,0%3,8%Faixa etária18 a 24 anos41+5,1%51,9%30 a 39 anos16-60,0%20,3%40 a 49 anos11+375,0%13,9%25 a 29 anos6+220,0%7,6%50 a 64 anos3+121,4%3,8%Até 17 anos2-60,0%2,5%Faixa salarialAté 1 SM37+436,4%46,8%&gt;1 a 1,5 SM29-60,3%36,7%&gt;1,5 a 2 SM10+233,3%12,7%Mais de 10 SM3+200,0%3,8%&gt;2 a 3 SM1+200,0%1,3%&gt;5 a 10 SM00,0%&gt;3 a 5 SM-1+0,0%-1,3%SexoMulher45+60,7%57,0%Homem34+6,2%43,0%Nota: Δ T12025-T12026 (%): variação % do saldo entre o mesmo trimestre dos dois anos (—: saldo base = 0 ou sem dado). Part. saldo (%): participação de cada categoria no saldo líquido total. Escolaridade agrupada em 5 níveis técnicos. Valores negativos indicam destruição líquida de vínculos.Fonte: Novo CAGED. Elaboração própria.\n\n\n\n\n\nO perfil educacional dos trabalhadores movimentados em Pau dos Ferros/RN no 1º trimestre de 2026 mostra que ‘Ensino médio’ foi o nível de instrução predominante, respondendo por 73,2% das movimentações. Esse resultado é típico do mercado formal interiorano do Nordeste, onde a maioria das vagas demanda qualificação de nível médio. A concentração em torno desse nível educacional pode ser um limitador para a atração de atividades de maior valor agregado, como tecnologia e serviços especializados, que tendem a exigir formação superior.\nEm relação à distribuição etária, a faixa ‘18 a 24 anos’ concentrou a maior parte das movimentações (31,4% do total), o que é esperado em mercados de trabalho locais onde há rotatividade mais elevada entre jovens em início de carreira. A predominância dessa faixa merece atenção do ponto de vista da qualidade do emprego: trabalhadores mais jovens tendem a ocupar postos de menor remuneração e maior rotatividade, o que impacta a estabilidade dos vínculos gerados.\nA distribuição salarial evidencia a concentração estrutural do emprego formal local em faixas de remuneração mais baixas: 97,0% das movimentações corresponderam a trabalhadores que recebem até 2 salários mínimos, com destaque para a faixa ‘&gt;1 a 1,5 SM’, que sozinha respondeu por 79,8% do total. Esse perfil é consistente com a estrutura produtiva regional, mas representa um desafio para a mobilidade econômica dos trabalhadores locais. Políticas de qualificação profissional e atração de investimentos em setores de maior produtividade podem contribuir para elevar gradualmente o patamar salarial médio do mercado formal."
+  },
+  {
+    "objectID": "boletim.html#top-ocupações-cbo",
+    "href": "boletim.html#top-ocupações-cbo",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "3.5 Top Ocupações (CBO)",
+    "text": "3.5 Top Ocupações (CBO)\nAs ocupações são identificadas pela Classificação Brasileira de Ocupações (CBO). A Tabela 9 apresenta as oito ocupações com maior saldo líquido no trimestre, enriquecidas com participação feminina, faixa etária predominante e salário médio de admissão. Quando o sistema identifica registros salariais incompatíveis com o cargo (acima de 10× o salário mínimo — prováveis erros de digitação no eSocial), eles são excluídos do cálculo e o valor exibido recebe um asterisco (*) indicando que se trata de uma média winsorizada. Essa ordenação por saldo garante consistência com as demais análises do boletim, destacando as funções que efetivamente ampliaram o estoque de vínculos formais.\n\n\n\n\nTabela 9: Top 8 ocupações por saldo líquido — Pau dos Ferros/RN — 2026T1: gênero, faixa etária e salário médio\n\n\n\nOcupaçãoSaldo% Mulheres (adm.)F. etária modalSal. médio (R$)Repositor de Mercadorias2910,5%18 a 24 anosR$ 1.607Operador de Telemarketing Ativo eReceptivo2825,0%18 a 24 anosR$ 1.621Operador de Caixa1541,4%18 a 24 anosR$ 1.623Atendente de Lojas e Mercados837,5%18 a 24 anosR$ 1.600Assistente Administrativo741,4%18 a 24 anosR$ 1.692*Fiscal de Loja60,0%30 a 39 anosR$ 1.743Faxineiro (Desativado em 2010)536,4%30 a 39 anosR$ 1.621Pedreiro50,0%30 a 39 anosR$ 2.052* Salário winsorizado: foram identificados registros acima de 10× o salário mínimo nessa ocupação (prováveis erros de digitação no eSocial). O valor exibido é a média após exclusão desses registros, garantindo robustez ao indicador.Nota: % Mulheres (adm.): participação feminina entre os admitidos. F. etária modal: faixa etária mais frequente entre os admitidos. Sal. médio: salário médio de admissão.Fonte: Novo CAGED / CBO. Elaboração própria.\n\n\n\n\n\nA Tabela 9 apresenta as oito ocupações com maior saldo líquido em Pau dos Ferros/RN no 1º trimestre de 2026, complementadas por informações de gênero, faixa etária e remuneração. A ordenação por saldo — e não por admissões brutas — reflete a qualidade líquida da geração de empregos, destacando as funções que efetivamente ampliaram o estoque de vínculos formais. As três ocupações com maior saldo foram: Repositor de Mercadorias, Operador de Telemarketing Ativo e Receptivo, Operador de Caixa. Na ocupação de maior destaque, 10,5% das admissões foram de mulheres, com salário médio de admissão de R$ 1.607. A análise conjunta de saldo, participação feminina e remuneração permite identificar se as vagas geradas são de boa qualidade e se beneficiam diferentes grupos de trabalhadores. Nota metodológica: em 1 ocupação(ões) foram identificados registros salariais acima de 10× o salário mínimo — prováveis erros de digitação no sistema do empregador. Esses valores foram excluídos do cálculo do salário médio; o valor apresentado reflete a média dos registros válidos."
+  },
+  {
+    "objectID": "boletim.html#porte-do-estabelecimento",
+    "href": "boletim.html#porte-do-estabelecimento",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "3.6 Porte do Estabelecimento",
+    "text": "3.6 Porte do Estabelecimento\nA Tabela 10 revela a estrutura do mercado de trabalho formal local segundo o tamanho do estabelecimento empregador. A coluna Var. (%) mostra a variação percentual do saldo em relação ao mesmo trimestre do ano anterior — um indicador mais comparável do que a variação absoluta, pois neutraliza diferenças de escala entre os segmentos de porte. Estabelecimentos de menor porte tendem a apresentar maior rotatividade; os de médio e grande porte, maior estabilidade dos vínculos.\n\n\n\n\nTabela 10: Saldo do emprego formal por porte do estabelecimento — Pau dos Ferros/RN — 2026T1\n\n\n\nPorteSaldoΔ T12025-T12026 (%)Part. saldo (%)Microempresa (até 4)71+39,2%89,9%Pequena (5 a 9)8-11,1%10,1%TOTAL79—100,0%Nota: Δ T12025-T12026 (%): variação % do saldo entre o mesmo trimestre dos dois anos (—: saldo base = 0 ou sem dado). Part. saldo: contribuição para o saldo líquido total. Fonte: Novo CAGED.\n\n\n\n\n\nA distribuição do saldo por porte do estabelecimento empregador oferece uma dimensão importante sobre a estrutura do mercado de trabalho formal em Pau dos Ferros/RN. Os estabelecimentos de porte ‘Microempresa (até 4)’ foram os maiores geradores líquidos de vínculos no trimestre (71 postos). Nenhum porte registrou saldo negativo no período. A predominância de determinado segmento de porte na geração de empregos tem implicações para a política local de desenvolvimento econômico: quando micro e pequenas empresas lideram a absorção, o mercado tende a ser mais pulverizado e vulnerável a choques; quando grandes estabelecimentos dominam, há maior estabilidade, mas também maior concentração de risco."
+  },
+  {
+    "objectID": "boletim.html#fonte-e-metodologia-geral",
+    "href": "boletim.html#fonte-e-metodologia-geral",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "4.1 Fonte e metodologia geral",
+    "text": "4.1 Fonte e metodologia geral\nEste boletim utiliza os microdados mensais do Novo CAGED (Cadastro Geral de Empregados e Desempregados), divulgados pelo Ministério do Trabalho e Emprego (MTE). Os dados são agregados por trimestre de referência. O saldo corresponde à diferença entre admissões e desligamentos registrados no período. O resultado acumulado no ano soma os saldos trimestrais do ano corrente até o período de referência. O saldo em 12 meses agrega os quatro últimos trimestres disponíveis, oferecendo uma visão de médio prazo independente da sazonalidade."
+  },
+  {
+    "objectID": "boletim.html#taxa-de-rotatividade",
+    "href": "boletim.html#taxa-de-rotatividade",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "4.2 Taxa de rotatividade",
+    "text": "4.2 Taxa de rotatividade\nA taxa de rotatividade é calculada como o menor valor entre admissões e desligamentos do trimestre, dividido pelo estoque estimado de vínculos ativos no período, expresso em percentual. Essa métrica complementa a leitura do saldo líquido: um resultado positivo acompanhado de rotatividade elevada pode mascarar instabilidade dos vínculos, com ciclos intensos de contratação e desligamento. O boletim inclui a evolução histórica da rotatividade, comparando o desempenho do município com a média da região."
+  },
+  {
+    "objectID": "boletim.html#médias-móveis-e-tendência",
+    "href": "boletim.html#médias-móveis-e-tendência",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "4.3 Médias móveis e tendência",
+    "text": "4.3 Médias móveis e tendência\nA média móvel de 4 trimestres (linha tracejada nos gráficos de saldo e rotatividade) suaviza a variação sazonal e evidencia a tendência estrutural do mercado de trabalho. Quando o saldo trimestral oscila em torno da média móvel, o mercado está em trajetória estável; quando diverge de forma consistente, há aceleração ou desaceleração da tendência."
+  },
+  {
+    "objectID": "boletim.html#quociente-locacional-ql",
+    "href": "boletim.html#quociente-locacional-ql",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "4.4 Quociente Locacional (QL)",
+    "text": "4.4 Quociente Locacional (QL)\nO Quociente Locacional compara a participação de cada setor nas movimentações do município com a participação do mesmo setor nas movimentações da região de referência. Formalmente: QL = (movimentações_setor_município / total_município) ÷ (movimentações_setor_região / total_região). Valores QL &gt; 1 indicam especialização relativa — o setor tem peso proporcionalmente maior no município do que na região. Valores QL &lt; 1 indicam sub-representação relativa."
+  },
+  {
+    "objectID": "boletim.html#estimativa-do-estoque",
+    "href": "boletim.html#estimativa-do-estoque",
+    "title": "Boletim Trimestral do Mercado de Trabalho",
+    "section": "4.5 Estimativa do estoque",
+    "text": "4.5 Estimativa do estoque\nO Novo CAGED registra fluxos (admissões e desligamentos), não estoques. Para estimar o estoque de vínculos ativos, este boletim utiliza como ponto de ancoragem o valor de 3.856 vínculos formais registrado em janeiro de 2023 para Pau dos Ferros/RN, conforme informado pela equipe técnica municipal. A partir desse baseline, o estoque é recalculado mensalmente pela acumulação dos saldos líquidos do CAGED. Para os demais municípios da região, o estoque deve ser interpretado como estimativa operacional relativa, sem ancoragem em valor absoluto validado externamente.\n\n\n\n\n\n\n\nNotaCobertura dos dados: emprego formal vs. total\n\n\n\nO Novo CAGED captura exclusivamente vínculos celetistas (CLT), não cobrindo servidores estatutários, trabalhadores por conta própria, empregados domésticos sem CTPS, nem trabalhadores informais. Para municípios do interior do Nordeste, a taxa de informalidade tende a ser elevada. A PNAD Contínua é a fonte recomendada para estimar o tamanho do mercado informal e a proporção de trabalhadores sem carteira. Os resultados deste boletim devem ser lidos como retrato do emprego formal CLT — segmento relevante, mas parcial, do mercado de trabalho local."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Início",
+    "section": "",
+    "text": "Prefeitura de Pau dos Ferros · Secretaria de Desenvolvimento Econômico\n\n\n\n\nAnálise trimestral do emprego formal em Pau dos Ferros/RN e nos 30 municípios do Alto Oeste Potiguar, com base nos microdados do Novo CAGED.\n\n\n2026T1 · 01/01/2026 a 31/03/2026\n\n\nVer boletim completo ↓ Ver indicadores"
+  },
+  {
+    "objectID": "index.html#indicadores",
+    "href": "index.html#indicadores",
+    "title": "Início",
+    "section": "",
+    "text": "Saldo trimestral\n\n\n79\n\n\n+19 vs. 2025T1\n\n\nAdmissões − Desligamentos\n\n\n\n\nEstoque estimado\n\n\n4.702\n\n\n+2,7% vs. 2025T1\n\n\nVínculos ativos ao final do trimestre\n\n\n\n\nAdmissões\n\n\n496\n\n\nContratações no trimestre\n\n\n2026T1\n\n\n\n\nDesligamentos\n\n\n417\n\n\nEncerramentos no trimestre\n\n\n2026T1\n\n\n\n\nRotatividade\n\n\n8,9%\n\n\nEstabilidade dos vínculos\n\n\nRegião: 4,1%\n\n\n\n\n\n\nDestaques setoriais\n\n\nEstrutura do emprego\n\nSaldo por setor — 2026T1\n\nDesempenho de cada segmento da economia formal em Pau dos Ferros/RN\n\n\n\n\n\n🛒\n\n\n&lt;div class=\"setor-name\"&gt;Comércio&lt;/div&gt;\n&lt;div class=\"setor-saldo\" style=\"color:#1F6FEB;\"&gt;+50&lt;/div&gt;\n&lt;div class=\"setor-detail\"&gt;284 adm. · 234 desl.&lt;/div&gt;\n\n\n\n\n💼\n\n\n&lt;div class=\"setor-name\"&gt;Serviços&lt;/div&gt;\n&lt;div class=\"setor-saldo\" style=\"color:#00875A;\"&gt;+20&lt;/div&gt;\n&lt;div class=\"setor-detail\"&gt;173 adm. · 153 desl.&lt;/div&gt;\n\n\n\n\n🏭\n\n\n&lt;div class=\"setor-name\"&gt;Indústria&lt;/div&gt;\n&lt;div class=\"setor-saldo\" style=\"color:#E6B800;\"&gt;+8&lt;/div&gt;\n&lt;div class=\"setor-detail\"&gt;20 adm. · 12 desl.&lt;/div&gt;\n\n\n\n\n🏗️\n\n\n&lt;div class=\"setor-name\"&gt;Construção&lt;/div&gt;\n&lt;div class=\"setor-saldo\" style=\"color:#8B5CF6;\"&gt;+1&lt;/div&gt;\n&lt;div class=\"setor-detail\"&gt;19 adm. · 18 desl.&lt;/div&gt;\n\n\n\n\n\n\nAnálise resumida\n\n\nContexto\n\nO que dizem os dados\n\n\n\n📊 Pau dos Ferros/RN — 2026T1\n\nNo 1º trimestre de 2026, o mercado de trabalho formal de Pau dos Ferros/RN registrou saldo positivo de 79 vínculos, resultado de 496 admissões e 417 desligamentos. Em relação ao mesmo trimestre do ano anterior, o resultado indica melhora: o saldo variou +19 vínculos. Comércio liderou a geração de empregos, com saldo de 50 vínculos, respondendo pela maior contribuição setorial no período. 4 de 4 setores registraram resultado positivo.\nVer análise completa no boletim →\n\n\n\n\nPanorama regional\n\n\nAlto Oeste Potiguar\n\n30 municípios · 2026T1\n\n\n\n\nSaldo regional\n\n\n234\n\n\nAlto Oeste Potiguar\n\n\nSoma dos 30 municípios\n\n\n\n\nEstoque regional\n\n\n5.651\n\n\nVínculos ativos\n\n\nEstimativa agregada\n\n\n\n\nAdmissões regionais\n\n\n992\n\n\nContratações no trimestre\n\n\nAlto Oeste Potiguar\n\n\n\n\nParticipação de Pau dos Ferros/RN\n\n\n33,8%\n\n\nDo saldo regional\n\n\nNo saldo líquido total"
+  },
+  {
+    "objectID": "index.html#leia-o-boletim-completo",
+    "href": "index.html#leia-o-boletim-completo",
+    "title": "Início",
+    "section": "Leia o boletim completo",
+    "text": "Leia o boletim completo\nAnálise detalhada com tabelas, gráficos históricos, perfil dos trabalhadores,quociente locacional e top ocupações por CBO.\nAcessar boletim completo →"
+  }
+]
